@@ -1,0 +1,989 @@
+# Translation of Themes - Soccer Academy in Russian
+# This file is distributed under the same license as the Themes - Soccer Academy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-06 17:55:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Soccer Academy\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Soccer Academy"
+msgstr "Soccer Academy"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Soccer Academy is a dynamic and comprehensive website template meticulously crafted for soccer clubs, academies, and sports organisations. With its engaging design and robust features, this theme serves as an all-inclusive platform to showcase your soccer programs, events, and team achievements. The theme's layout is designed to reflect the energy and enthusiasm of the sport, captivating visitors from the moment they land on your site. Soccer Academy offers a variety of tools to cater to your soccer-centric needs. It features customizable sections for displaying team rosters, schedules, match results, and player profiles, fostering an immersive experience for both fans and players. A dedicated blog section allows you to share match insights, training tips, and industry news, establishing your academy as an authoritative source of soccer information. The responsive design ensures that your site looks and functions flawlessly across all devices, from desktops to mobile phones, facilitating convenient access for users on the go. This theme's user-friendly customization options empower you to personalise colours, fonts, and layouts to align with your academy's branding. It seamlessly integrates with social media platforms, enabling you to expand your reach and foster a sense of community among fans and players."
+msgstr "Soccer Academy - динамичный и комплексный шаблон сайта, созданный специально для футбольных клубов, академий и спортивных организаций. Благодаря привлекательному дизайну и широким возможностям эта тема служит универсальной платформой для демонстрации футбольных программ, мероприятий и достижений команды. Макет темы отражает энергию и энтузиазм этого вида спорта, завораживая посетителей с первого взгляда на ваш сайт. Soccer Academy предлагает множество инструментов для удовлетворения ваших футбольных потребностей. На сайте имеются настраиваемые разделы для размещения списков команд, расписаний, результатов матчей и профилей игроков, что позволяет создать благоприятную атмосферу для болельщиков и игроков. Специальный раздел блога позволяет делиться мнениями о матчах, советами по тренировкам и новостями индустрии, что делает вашу академию авторитетным источником футбольной информации. Отзывчивый дизайн обеспечивает безупречный внешний вид сайта на всех устройствах - от настольных компьютеров до мобильных телефонов, что делает его удобным для пользователей, находящихся в пути. Удобные возможности настройки этой темы позволяют персонализировать цвета, шрифты и макеты в соответствии с брендом вашей академии. Тема легко интегрируется с социальными сетями, что позволяет расширить охват аудитории и сформировать чувство общности среди болельщиков и игроков."
+
+#: inc/customizer-home-page.php:122 inc/customizer-home-page.php:185
+#: inc/customizer-home-page.php:244 inc/customizer-home-page.php:303
+msgid "Add Icon"
+msgstr "Добавить значок"
+
+#: inc/customizer-home-page.php:137 inc/customizer-home-page.php:196
+#: inc/customizer-home-page.php:255 inc/customizer-home-page.php:314
+msgid "Add URL"
+msgstr "Добавьте URL"
+
+#: inc/customizer.php:1162
+msgid "Archieve Product Settings"
+msgstr "Настройки архивирования товаров"
+
+#: inc/customizer.php:1193 inc/customizer.php:1246
+msgid "Display Products"
+msgstr "Отобразить товары"
+
+#: inc/customizer.php:1181 inc/customizer.php:1234
+msgid "Five Column"
+msgstr "Пять столбцов"
+
+#: inc/customizer-home-page.php:293
+msgid "Instagram Settings"
+msgstr "Настройки Instagram"
+
+#: inc/customizer.php:414 inc/customizer.php:676 inc/customizer.php:1118
+#: inc/customizer.php:1147
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer-home-page.php:175
+msgid "Linkedin Settings"
+msgstr "Настройки LinkedIn"
+
+#: inc/customizer.php:1208
+msgid "Related Product Settings"
+msgstr "Настройки сопутствующих товаров"
+
+#: inc/customizer.php:410 inc/customizer.php:672 inc/customizer.php:1114
+#: inc/customizer.php:1143
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#: inc/customizer.php:1174 inc/customizer.php:1227
+msgid "Select No of Columns"
+msgstr "Выберите количество столбцов"
+
+#: inc/customizer.php:212
+msgid "Show Sticky Header"
+msgstr "Показать прикрепленный заголовок"
+
+#: inc/customizer.php:1094
+msgid "Sidebar Settings"
+msgstr "Настройки области виджетов"
+
+#: inc/customizer.php:1182 inc/customizer.php:1235
+msgid "Six Column"
+msgstr "Шесть столбцов"
+
+#: inc/customizer-home-page.php:112
+msgid "Twitter Settings"
+msgstr "Настройки Twitter"
+
+#: inc/customizer-home-page.php:234
+msgid "Youtube Settings"
+msgstr "Настройки YouTube"
+
+#: inc/customizer.php:1180 inc/customizer.php:1233
+msgid "four Column"
+msgstr "четыре столбца"
+
+#: inc/customizer.php:190
+msgid "Sticky header Setting"
+msgstr "Настройка прилепленного заголовка"
+
+#: inc/customizer.php:264
+msgid "Theme Width Setting"
+msgstr "Настройка ширины темы"
+
+#: inc/customizer.php:227
+msgid "Loader Setting"
+msgstr "Настройка анимации загрузки"
+
+#: inc/customizer.php:288
+msgid "Menu Setting"
+msgstr "Настройка меню"
+
+#: inc/customizer-home-page.php:559
+msgid "Check To Show Section"
+msgstr "Отметьте, чтобы показывать раздел"
+
+#: inc/customizer.php:1270
+msgid "Show Related Products"
+msgstr "Показать сопутствующие товары"
+
+#: inc/dashboard/dashboard.php:66
+msgid "1. Setup Logo"
+msgstr "1. Установка логотипа"
+
+#: inc/dashboard/dashboard.php:93
+msgid "1. Setup Page"
+msgstr "1. Установка страницы"
+
+#: inc/dashboard/dashboard.php:70
+msgid "2. Setup Contact Info"
+msgstr "2. Установка контактной информации"
+
+#: inc/dashboard/dashboard.php:97
+msgid "2. Setup Slider"
+msgstr "2. Установка слайдера"
+
+#: inc/dashboard/dashboard.php:74
+msgid "3. Setup Menus"
+msgstr "3. Установка меню"
+
+#: inc/dashboard/dashboard.php:78
+msgid "4. Setup Social Icons"
+msgstr "4. Установка значков соцсетей"
+
+#: inc/dashboard/dashboard.php:82
+msgid "5. Setup Footer"
+msgstr "5. Установка подвала"
+
+#: inc/dashboard/dashboard.php:86
+msgid "5. Setup Footer Text"
+msgstr "5. Установка текста подвала"
+
+#: inc/dashboard/dashboard.php:72
+msgid "Add Contact Info"
+msgstr "Добавить контактную информацию"
+
+#: inc/dashboard/dashboard.php:76
+msgid "Add Menus"
+msgstr "Добавить меню"
+
+#: inc/dashboard/dashboard.php:95
+msgid "Add New Page"
+msgstr "Добавить страницу"
+
+#: inc/dashboard/dashboard.php:100
+msgid "Add Slider"
+msgstr "Добавить слайдер"
+
+#: inc/dashboard/dashboard.php:80
+msgid "Add Social Icons"
+msgstr "Добавить значки соцсетей"
+
+#: inc/dashboard/dashboard.php:113
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: inc/dashboard/dashboard.php:63 inc/dashboard/dashboard.php:115
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/customizer-home-page.php:767
+msgid "Footer Per Column"
+msgstr "Подвал на столбец"
+
+#: inc/dashboard/dashboard.php:84
+msgid "Footer Widgets"
+msgstr "Виджеты подвала"
+
+#: inc/dashboard/dashboard.php:71
+msgid "Go to dashboard >> Appearance >> Customize >> Contact info >> Add your phone number and email address."
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Контактная информация >> Добавьте свой номер телефона и адрес электронной почты."
+
+#: inc/dashboard/dashboard.php:87
+msgid "Go to dashboard >> Appearance >> Customize >> Footer Text >> Add copyright text. >> "
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Текст подвала >> Добавить текст об авторских правах. >> "
+
+#: inc/dashboard/dashboard.php:67
+msgid "Go to dashboard >> Appearance >> Customize >> Site Identity >> Upload your logo or Add site title and site description."
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Свойства сайта >> Загрузите свой логотип или добавьте название сайта и описание сайта."
+
+#: inc/dashboard/dashboard.php:99
+msgid "Go to dashboard >> Appearance >> Customize >> Slider Settings >> Select post."
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Настройки слайдера >> Выбрать запись."
+
+#: inc/dashboard/dashboard.php:79
+msgid "Go to dashboard >> Appearance >> Customize >> Social Media >> Add social links."
+msgstr "Перейдите в консоль >> Внешний вид >> Настроить >> Соцсети >> Добавить ссылки на соцсети."
+
+#: inc/dashboard/dashboard.php:75
+msgid "Go to dashboard >> Appearance >> Menus >> Create Menus >> Add pages, post or custom link then save it."
+msgstr "Перейдите в консоль >> Внешний вид >> Меню >> Создать меню >> Добавить страницы, опубликовать или пользовательскую ссылку, затем сохраните его."
+
+#: inc/dashboard/dashboard.php:83
+msgid "Go to dashboard >> Appearance >> Widgets >> Add widgets in footer 1, footer 2, footer 3, footer 4. >> "
+msgstr "Перейдите в консоль >> Внешний вид >> Виджеты >> Добавьте виджеты в подвал 1, подвал 2, подвал 3, подвал 4. >> "
+
+#: inc/dashboard/dashboard.php:94
+msgid "Go to dashboard >> Pages >> Add New Page >> Select \"Custom Home Page\" from templates >> Publish it."
+msgstr "Перейдите в консоль >> Страницы >> Добавить новую страницу >> Выберите Пользовательская главную страницу из шаблонов >> Опубликовать."
+
+#: inc/dashboard/dashboard.php:98
+msgid "Go to dashboard >> Post >> Add New Post >> Add title, content and featured image >> Publish it."
+msgstr "Перейдите в консоль >> Записи >> Добавить новую запись >> Добавить заголовок, содержимое и изображение записи >> Опубликовать."
+
+#: inc/dashboard/dashboard.php:114
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: inc/dashboard/dashboard.php:54
+msgid "Review"
+msgstr "Отзыв"
+
+#: inc/dashboard/dashboard.php:140
+msgid "SEO Friendly"
+msgstr "Дружелюбный к SEO"
+
+#: inc/dashboard/dashboard.php:90
+msgid "Setup Home Page"
+msgstr "Установка главной страницы"
+
+#: inc/dashboard/dashboard.php:53
+msgid "Support"
+msgstr "Поддержка"
+
+#: functions.php:73 inc/dashboard/dashboard.php:5
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: inc/customizer.php:274
+msgid "Theme Width Option"
+msgstr "Параметры ширины темы"
+
+#: inc/dashboard/dashboard.php:91
+msgid "To step the home page follow the below steps."
+msgstr "Чтобы перейти на главную страницу, выполните следующие действия."
+
+#: inc/dashboard/dashboard.php:68
+msgid "Upload your logo"
+msgstr "Загрузить свой логотип"
+
+#: inc/dashboard/dashboard.php:48
+msgid "Version: "
+msgstr "Версия: "
+
+#: inc/customizer.php:1084
+msgid "WooCommerce Settings"
+msgstr "Настройки WooCommerce"
+
+#: inc/customizer.php:277
+msgid "fullwidth"
+msgstr "во всю ширину"
+
+#: inc/customizer.php:278
+msgid "container"
+msgstr "контейнер"
+
+#: inc/customizer.php:279
+msgid "container fluid"
+msgstr "растягивающийся контейнер"
+
+#: inc/dashboard/dashboard.php:14
+msgid "https://wordpress.org/support/theme/soccer-academy/"
+msgstr "https://wordpress.org/support/theme/soccer-academy/"
+
+#: inc/dashboard/dashboard.php:17
+msgid "https://wordpress.org/support/theme/soccer-academy/reviews/"
+msgstr "https://wordpress.org/support/theme/soccer-academy/reviews/"
+
+#: inc/dashboard/dashboard.php:20
+msgid "https://www.ovationthemes.com/demos/soccer-academy/"
+msgstr "https://www.ovationthemes.com/demos/soccer-academy/"
+
+#: inc/dashboard/dashboard.php:26
+msgid "https://www.ovationthemes.com/docs/ot-soccer-academy-pro-doc/"
+msgstr "https://www.ovationthemes.com/docs/ot-soccer-academy-pro-doc/"
+
+#: inc/dashboard/dashboard.php:32
+msgid "Premium Soccer Theme"
+msgstr "Тема Premium Soccer"
+
+#: inc/dashboard/dashboard.php:64
+msgid "To setup the soccer academy theme follow the below steps."
+msgstr "Чтобы установить тему soccer academy, выполните следующие действия."
+
+#: inc/dashboard/dashboard.php:103
+msgid "Go to dashboard >> Post >> Add New Post Category >> Add New Post >> Add title, content, select post category and featured image >> Publish it."
+msgstr "Перейдите в консоль >> Записи >> Добавить новую рубрику записи >> Добавить новую запись >> Добавить заголовок, содержимое, выберите рубрику записи и изображение записи >> Опубликовать."
+
+#: inc/dashboard/dashboard.php:104
+msgid "Go to dashboard >> Appearance >> Customize >> Player Settings >> Add section heading, Add Details and publish it."
+msgstr "Перейдите в консоль >> Внешний вид >> Настройки >> Настройки плеера >> Добавьте заголовок раздела, добавьте детали и опубликуйте."
+
+#: inc/dashboard/dashboard.php:105
+msgid "Add players"
+msgstr "Добавить игроков"
+
+#: functions.php:166
+msgid "Soccer Academy WordPress Theme"
+msgstr "Тема для WordPress Футбольной Академии"
+
+#: inc/dashboard/dashboard.php:102
+msgid "3. Setup Player Section"
+msgstr "3. Установка раздела Проигрыватель"
+
+#: template-parts/post/content-audio.php:43
+#: template-parts/post/content-gallery.php:51
+#: template-parts/post/content-image.php:46
+#: template-parts/post/content-quote.php:26
+#: template-parts/post/content-video.php:41 template-parts/post/content.php:32
+#: template-parts/post/grid-audio.php:54
+#: template-parts/post/grid-gallery.php:62
+#: template-parts/post/grid-image.php:57 template-parts/post/grid-quote.php:37
+#: template-parts/post/grid-video.php:53 template-parts/post/grid.php:43
+#: template-parts/post/similar-post.php:52
+#: template-parts/post/single-page.php:37
+msgid "% Comments"
+msgstr "Комментарии %"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: inc/template-tags.php:18
+msgid ", "
+msgstr ", "
+
+#: template-parts/post/content-audio.php:43
+#: template-parts/post/content-gallery.php:51
+#: template-parts/post/content-image.php:46
+#: template-parts/post/content-quote.php:26
+#: template-parts/post/content-video.php:41 template-parts/post/content.php:32
+#: template-parts/post/grid-audio.php:54
+#: template-parts/post/grid-gallery.php:62
+#: template-parts/post/grid-image.php:57 template-parts/post/grid-quote.php:37
+#: template-parts/post/grid-video.php:53 template-parts/post/grid.php:43
+#: template-parts/post/similar-post.php:52
+#: template-parts/post/single-page.php:37
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: inc/customizer-home-page.php:770 inc/customizer.php:718
+msgid "1"
+msgstr "1"
+
+#: inc/customizer.php:1532 inc/dashboard/dashboard.php:136
+msgid "10+ Sections"
+msgstr "Более 10-и разделов"
+
+#: inc/customizer-home-page.php:771 inc/customizer.php:719
+msgid "2"
+msgstr "2"
+
+#: inc/customizer-home-page.php:772 inc/customizer.php:720
+msgid "3"
+msgstr "3"
+
+#: inc/customizer-home-page.php:773 inc/customizer.php:721
+msgid "4"
+msgstr "4"
+
+#: inc/customizer.php:1534 inc/dashboard/dashboard.php:138
+msgid "AMP Ready"
+msgstr "Готов к AMP"
+
+#: inc/customizer-home-page.php:57
+msgid "Add Email Address"
+msgstr "Добавить email-адрес"
+
+#: inc/customizer-home-page.php:47
+msgid "Add Phone Number"
+msgstr "Добавить номер телефона"
+
+#: inc/customizer.php:368
+msgid "Add Scroll Top Icon"
+msgstr "Добавьте значок прокрутки"
+
+#: inc/customizer-home-page.php:26
+msgid "Add contact info in the below feilds"
+msgstr "Добавьте контактную информацию в поля ниже"
+
+#: inc/customizer-home-page.php:75
+msgid "Add social media links in the below feilds"
+msgstr "Добавьте ссылки на соцсети в поля ниже"
+
+#: functions.php:346 functions.php:356 functions.php:366 functions.php:376
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для отображения в подвале."
+
+#: functions.php:326
+msgid "Add widgets here to appear in your pages and posts"
+msgstr "Добавьте сюда виджеты для их помещения на страницы и записи"
+
+#: functions.php:316 functions.php:336
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: inc/customizer-home-page.php:669
+msgid "Age"
+msgstr "Возраст"
+
+#: inc/customizer.php:1516 inc/dashboard/dashboard.php:120
+msgid "Boxed or fullwidth layout"
+msgstr "Макет Блок или Во всю ширину"
+
+#: inc/customizer.php:301
+msgid "CAPITALISE"
+msgstr "ПРОПИСНЫЕ БУКВЫ"
+
+#: inc/customizer-home-page.php:97
+msgid "Check to show social fields"
+msgstr "Отметьте, чтобы показать поля соцсетей"
+
+#: template-parts/navigation/navigation.php:21
+msgid "Close Menu"
+msgstr "Закрыть меню"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: inc/customizer.php:1520 inc/dashboard/dashboard.php:124
+msgid "Contact Page Template"
+msgstr "Шаблон страницы контактов"
+
+#: inc/customizer-home-page.php:25
+msgid "Contact Settings"
+msgstr "Настройки Контактов"
+
+#: inc/customizer-home-page.php:16
+msgid "Contact info"
+msgstr "Контактная информация"
+
+#: inc/customizer-home-page.php:733
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer-home-page.php:683
+msgid "Country"
+msgstr "Страна"
+
+#: inc/customizer.php:1525 inc/dashboard/dashboard.php:129
+msgid "Cross Browser Support"
+msgstr "Поддержка кросс-браузерных технологий"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Пользовательская главная страница"
+
+#: inc/customizer.php:1524 inc/dashboard/dashboard.php:128
+msgid "Customizable Design & Code"
+msgstr "Настраиваемый дизайн и код"
+
+#: inc/customizer.php:1518 inc/dashboard/dashboard.php:122
+msgid "Demo Importer"
+msgstr "Импортер демонстраций"
+
+#: inc/customizer.php:1523 inc/dashboard/dashboard.php:127
+msgid "Designed with HTML5 and CSS3"
+msgstr "Разработано с использованием HTML5 и CSS3"
+
+#: inc/customizer.php:1526 inc/dashboard/dashboard.php:130
+msgid "Detailed Documentation Included"
+msgstr "Подробная документация в комплекте"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:37
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Изменить<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: functions.php:344
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:354
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:364
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:374
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: inc/customizer-home-page.php:724
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/customizer-home-page.php:716 inc/dashboard/dashboard.php:88
+msgid "Footer Text"
+msgstr "Текст в подвале"
+
+#: inc/customizer.php:688
+msgid "Four Column"
+msgstr "Четыре столбца"
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:1468
+msgid "Front Page Section %d Content"
+msgstr "Содержимое %d раздела главной страницы"
+
+#: inc/customizer.php:1531 inc/dashboard/dashboard.php:135
+msgid "Full Support"
+msgstr "Полная поддержка"
+
+#: 404.php:23
+msgid "GO BACK"
+msgstr "НАЗАД"
+
+#: inc/customizer.php:700
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: inc/customizer.php:715
+msgid "Grid Post Per Row"
+msgstr "Записи сеткой в строке"
+
+#: inc/customizer-home-page.php:584
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/customizer-home-page.php:622
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+#: inc/customizer-home-page.php:694 page-template/custom-home-page.php:156
+msgid "Height"
+msgstr "Высота"
+
+#: inc/icon-picker.php:19
+msgctxt "placeholder"
+msgid "Icon"
+msgstr "Значок"
+
+#: 404.php:30
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что ничего не было найдено в этом месте. Может, попробовать поискать?"
+
+#: template-parts/post/content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищите. Возможно, поможет поиск."
+
+#: inc/customizer.php:303
+msgid "LOWERCASE"
+msgstr "НИЖНИЙ РЕГИСТР"
+
+#. Template Name of the theme
+msgid "Left Sidebar Template"
+msgstr "Шаблон левой области виджетов"
+
+#: inc/customizer.php:1533 inc/dashboard/dashboard.php:137
+msgid "Live Customizer"
+msgstr "Визуальная настройка темы"
+
+#: inc/customizer.php:50
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: header.php:81 template-parts/navigation/navigation.php:11
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/customizer.php:298
+msgid "Menus Text Transform"
+msgstr "Преобразование текста меню"
+
+#: inc/customizer.php:1521 inc/dashboard/dashboard.php:125
+msgid "Multiple Blog Layouts"
+msgstr "Несколько макетов блога"
+
+#: template-parts/post/single-page.php:79
+#: template-parts/post/single-page.php:122
+#: template-parts/post/single-page.php:163
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/post/single-page.php:79
+#: template-parts/post/single-page.php:122
+#: template-parts/post/single-page.php:163
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: template-parts/post/post-layout.php:29
+#: template-parts/post/post-layout.php:58
+#: template-parts/post/post-layout.php:85
+#: template-parts/post/post-layout.php:113
+#: template-parts/post/post-layout.php:142
+#: template-parts/post/post-layout.php:171
+#: template-parts/post/post-layout.php:200
+#: template-parts/post/post-layout.php:227
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: search.php:35
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/customizer-home-page.php:100 inc/customizer-home-page.php:163
+#: inc/customizer-home-page.php:222 inc/customizer-home-page.php:281
+#: inc/customizer-home-page.php:340 inc/customizer-home-page.php:384
+#: inc/customizer-home-page.php:443 inc/customizer-home-page.php:487
+#: inc/customizer-home-page.php:562 inc/customizer.php:80
+#: inc/customizer.php:105 inc/customizer.php:215 inc/customizer.php:252
+#: inc/customizer.php:337 inc/customizer.php:442 inc/customizer.php:483
+#: inc/customizer.php:524 inc/customizer.php:561 inc/customizer.php:598
+#: inc/customizer.php:627 inc/customizer.php:798 inc/customizer.php:839
+#: inc/customizer.php:880 inc/customizer.php:921 inc/customizer.php:980
+#: inc/customizer.php:1026 inc/customizer.php:1064 inc/customizer.php:1273
+#: inc/customizer.php:1316 inc/customizer.php:1343 inc/customizer.php:1380
+#: inc/customizer.php:1407 inc/customizer.php:1435
+msgid "Off"
+msgstr "Откл"
+
+#: inc/customizer-home-page.php:99 inc/customizer-home-page.php:162
+#: inc/customizer-home-page.php:221 inc/customizer-home-page.php:280
+#: inc/customizer-home-page.php:339 inc/customizer-home-page.php:383
+#: inc/customizer-home-page.php:442 inc/customizer-home-page.php:486
+#: inc/customizer-home-page.php:561 inc/customizer.php:79
+#: inc/customizer.php:104 inc/customizer.php:214 inc/customizer.php:251
+#: inc/customizer.php:336 inc/customizer.php:441 inc/customizer.php:482
+#: inc/customizer.php:523 inc/customizer.php:560 inc/customizer.php:597
+#: inc/customizer.php:626 inc/customizer.php:797 inc/customizer.php:838
+#: inc/customizer.php:879 inc/customizer.php:920 inc/customizer.php:979
+#: inc/customizer.php:1025 inc/customizer.php:1063 inc/customizer.php:1272
+#: inc/customizer.php:1315 inc/customizer.php:1342 inc/customizer.php:1379
+#: inc/customizer.php:1406 inc/customizer.php:1434
+msgid "On"
+msgstr "Вкл"
+
+#: inc/customizer.php:418 inc/customizer.php:680 inc/customizer.php:1177
+#: inc/customizer.php:1230
+msgid "One Column"
+msgstr "Один столбец"
+
+#. translators: %s: post title
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: inc/customizer-home-page.php:160 inc/customizer-home-page.php:219
+#: inc/customizer-home-page.php:278 inc/customizer-home-page.php:337
+msgid "Open link in a new tab"
+msgstr "Открывать в новой вкладке"
+
+#: template-parts/post/post-layout.php:30
+#: template-parts/post/post-layout.php:59
+#: template-parts/post/post-layout.php:86
+#: template-parts/post/post-layout.php:114
+#: template-parts/post/post-layout.php:143
+#: template-parts/post/post-layout.php:172
+#: template-parts/post/post-layout.php:201
+#: template-parts/post/post-layout.php:228
+msgid "Page"
+msgstr "Страница"
+
+#: functions.php:324
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: page-template/left-sidebar.php:43 page-template/right-sidebar.php:39
+#: page.php:40
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/customizer.php:1528 inc/dashboard/dashboard.php:132
+msgid "Patterns Background"
+msgstr "Паттерны фона"
+
+#: inc/customizer.php:377
+msgid "Post Layout"
+msgstr "Макет записи"
+
+#: index.php:35
+msgid "Posts"
+msgstr "Записи"
+
+#: template-parts/post/single-page.php:78
+#: template-parts/post/single-page.php:121
+#: template-parts/post/single-page.php:162
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/post/single-page.php:78
+#: template-parts/post/single-page.php:121
+#: template-parts/post/single-page.php:162
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: template-parts/post/post-layout.php:28
+#: template-parts/post/post-layout.php:57
+#: template-parts/post/post-layout.php:84
+#: template-parts/post/post-layout.php:112
+#: template-parts/post/post-layout.php:141
+#: template-parts/post/post-layout.php:170
+#: template-parts/post/post-layout.php:199
+#: template-parts/post/post-layout.php:226
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: functions.php:277
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%s\">Начните здесь</a>."
+
+#: inc/customizer.php:1515 inc/dashboard/dashboard.php:119
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#. Template Name of the theme
+msgid "Right Sidebar Template"
+msgstr "Шаблон правой области виджетов"
+
+#: inc/customizer.php:353
+msgid "Scroll Top Alignment"
+msgstr "Выравнивание прокрутки вверх"
+
+#: inc/customizer.php:312
+msgid "Scroll Top Settings"
+msgstr "Настройки прокрутки вверх"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer.php:1519 inc/dashboard/dashboard.php:123
+msgid "Section Reordering"
+msgstr "Переупорядочивание разделов"
+
+#: inc/customizer-home-page.php:404
+msgid "Select"
+msgstr "Выбрать"
+
+#: inc/customizer.php:1469
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "Выберите избранные страницы для каждой области из выпадающих списков. Добавьте изображение в раздел установив изображение записи в редакторе страницы. Пустые разделы не будут показаны."
+
+#: inc/customizer-home-page.php:415
+msgid "Select post"
+msgstr "Выбрать запись"
+
+#: inc/customizer.php:174
+msgid "Select your suitable font for the body."
+msgstr "Выберите удобный шрифт для основной части."
+
+#: inc/customizer.php:165
+msgid "Select your suitable font for the headings."
+msgstr "Выберите удобный шрифт для заголовков."
+
+#: inc/customizer.php:1517 inc/dashboard/dashboard.php:121
+msgid "Shortcode Support"
+msgstr "Поддержка шорткода"
+
+#: inc/customizer.php:249
+msgid "Show Site Loader"
+msgstr "Показать анимацию загрузки"
+
+#: inc/customizer.php:102
+msgid "Show Site Tagline"
+msgstr "Показать описание сайта"
+
+#: inc/customizer.php:77
+msgid "Show Site Title"
+msgstr "Показать заголовок сайта"
+
+#: functions.php:314
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: functions.php:334
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/customizer-home-page.php:515
+msgid "Slider Content Alignment"
+msgstr "Выравнивание содержимого слайдера"
+
+#: inc/customizer-home-page.php:359
+msgid "Slider Image Dimension ( 600px x 700px )"
+msgstr "Размер изображения слайдера (600 x 700 px)"
+
+#: inc/customizer-home-page.php:349 inc/customizer-home-page.php:358
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer-home-page.php:65
+msgid "Social Media"
+msgstr "Социальные сети"
+
+#: inc/customizer-home-page.php:74
+msgid "Social Media Settings"
+msgstr "Настройки соцсетей"
+
+#: inc/customizer.php:1527 inc/dashboard/dashboard.php:131
+msgid "Stylish Custom Widgets"
+msgstr "Стильные пользовательские виджеты"
+
+#: inc/customizer-home-page.php:573
+msgid "Sub Heading"
+msgstr "Подзаголовок"
+
+#: inc/customizer.php:181
+msgid "Theme General Settings"
+msgstr "Общие настройки темы"
+
+#: inc/customizer.php:684 inc/customizer.php:1179 inc/customizer.php:1232
+msgid "Three Column"
+msgstr "Три столбца"
+
+#: inc/customizer.php:1178 inc/customizer.php:1231
+msgid "Two Column"
+msgstr "Два столбца"
+
+#: inc/customizer.php:114 inc/customizer.php:156
+msgid "Typography Settings"
+msgstr "Параметры оформления"
+
+#: inc/customizer.php:302
+msgid "UPPERCASE"
+msgstr "ВЕРХНИЙ РЕГИСТР"
+
+#: inc/customizer.php:1522 inc/dashboard/dashboard.php:126
+msgid "Unlimited Color Options"
+msgstr "Неограниченная цветовая палитра"
+
+#: inc/customizer.php:1529 inc/dashboard/dashboard.php:133
+msgid "WPML Compatible (Translation Ready)"
+msgstr "Совместим с WPML (готов к переводу)"
+
+#: inc/customizer-home-page.php:705 page-template/custom-home-page.php:162
+msgid "Weight"
+msgstr "Толщина"
+
+#: inc/customizer.php:1530 inc/dashboard/dashboard.php:134
+msgid "Woo-commerce Compatible"
+msgstr "Совместимость с WooCommerce"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: inc/customizer.php:667
+msgid "select Post Page Layout"
+msgstr "выберите макет страницы записи"
+
+#: inc/customizer.php:1537 inc/dashboard/dashboard.php:141
+msgid "Supper Fast"
+msgstr "Supper Fast"
+
+#: inc/customizer-home-page.php:674
+msgid "Ex:40 Years"
+msgstr "Пример: 40 лет"
+
+#: inc/customizer.php:1498 inc/dashboard/dashboard.php:23
+msgid "https://www.ovationthemes.com/wordpress/soccer-club-wordpress-theme/"
+msgstr "https://www.ovationthemes.com/wordpress/soccer-club-wordpress-theme/"
+
+#: inc/customizer-home-page.php:395
+msgid "Slider Text"
+msgstr "Текст слайдера"
+
+#: inc/customizer.php:1513
+msgid "SOCCER ACADEMY PREMIUM - Features"
+msgstr "SOCCER ACADEMY PREMIUM - функции"
+
+#: inc/customizer.php:1536
+msgid "Business Friendly"
+msgstr "Дружелюбный к бизнесу"
+
+#: page-template/custom-home-page.php:144
+msgid "Born:"
+msgstr "Место рождения:"
+
+#: page-template/custom-home-page.php:147
+msgid "Age: "
+msgstr "Возраст: "
+
+#: page-template/custom-home-page.php:150
+msgid "Country: "
+msgstr "Страна: "
+
+#: page-template/custom-home-page.php:158
+msgid "ft"
+msgstr "фут"
+
+#: page-template/custom-home-page.php:164
+msgid "kg"
+msgstr "кг"
+
+#: inc/customizer.php:37
+msgid "SOCCER ACADEMY PREMIUM"
+msgstr "SOCCER ACADEMY PREMIUM"
+
+#: inc/customizer-home-page.php:595
+msgid "Slider Increament"
+msgstr "Слайдер Increament"
+
+#: inc/customizer-home-page.php:633
+msgid "Team Name"
+msgstr "Название команды"
+
+#: inc/customizer-home-page.php:644
+msgid "Player No"
+msgstr "Игрок №"
+
+#: inc/customizer-home-page.php:655
+msgid "Birth Date"
+msgstr "Дата рождения"
+
+#: inc/customizer-home-page.php:528
+msgid "Player Section"
+msgstr "Раздел Проигрыватель"
+
+#: inc/customizer-home-page.php:537
+msgid "Player Section Settings"
+msgstr "Настройки раздела Проигрыватель"
+
+#: inc/customizer-home-page.php:381
+msgid "Check To Show Slider"
+msgstr "Отметьте, чтобы показать слайдер"
+
+#: inc/customizer.php:1108
+msgid "Show Shop Page Sidebar"
+msgstr "Показать область виджетов страницы магазина"
+
+#: inc/customizer.php:1137
+msgid "Show Single Product Page Sidebar"
+msgstr "Показать область виджетов страницы отдельного товара"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "pewilliams"
+msgstr "pewilliams"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.ovationthemes.com/"
+msgstr "https://www.ovationthemes.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.ovationthemes.com/wordpress/free-soccer-wordpress-theme/"
+msgstr "https://www.ovationthemes.com/wordpress/free-soccer-wordpress-theme/"
